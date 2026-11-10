@@ -1,0 +1,9 @@
+SITE DE IMAGEM ALEATÓRIA
+
+Como usar:
+1. Extraia a pasta/arquivo ZIP.
+2. Mantenha index.html e a pasta images juntos.
+3. Abra index.html no navegador ou publique todos os arquivos em um serviço de hospedagem estática.
+
+A cada carregamento, o site escolhe aleatoriamente uma das três imagens.
+A imagem ocupa a maior área possível da tela sem ser cortada (object-fit: contain).
